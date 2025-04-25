@@ -1,3 +1,0 @@
-# Proyecto netbeants
-
-Aplicativo
